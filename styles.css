@@ -12,3 +12,11 @@ body {
     width: 100vw;
     height: 20px;
 }
+
+.heading1 {
+    font-size: 18px;
+    width: 30vw;
+    height: 15px;
+    display: flex;
+    align-items: center;
+}
